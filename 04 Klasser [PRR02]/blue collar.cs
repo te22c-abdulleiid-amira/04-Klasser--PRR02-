@@ -2,7 +2,7 @@ using System;
 
 namespace _04_Klasser__PRR02_;
 
-public class blue_collar
+public class blue_collar : worker
 {
 
 }

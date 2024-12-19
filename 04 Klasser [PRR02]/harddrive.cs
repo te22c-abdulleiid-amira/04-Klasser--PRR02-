@@ -2,7 +2,7 @@
 
 namespace _04_Klasser__PRR02_;
 
-public class harddrive
+public class harddrive : hardware
 {
 
 }
